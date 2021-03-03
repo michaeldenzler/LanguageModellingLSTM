@@ -8,7 +8,7 @@ If you want to have more information about our implementaiton please look at pro
 ## Training Data
 
 #### Letter-by-letter creator:
-Book: The Count of Monte Cristo (1844) by 	Alexandre Dumas \\
+Book: The Count of Monte Cristo (1844) by 	Alexandre Dumas \newline
 Total number of characters: 2’647’338 \\
 Number of unique characters: 105
 
