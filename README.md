@@ -1,4 +1,4 @@
-# LanguageModellingLSTM
+# Language Modelling using LSTMs
 
 
 #### Micheal Denzler
