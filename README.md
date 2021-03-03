@@ -13,8 +13,8 @@ Total number of characters: 2’647’338 <br/>
 Number of unique characters: 105
 
 #### Word-by-word creator:
-Book: The Bible, King James Version (1611) \\
-Total number of words: 1’010’654 \\
+Book: The Bible, King James Version (1611) <br/>
+Total number of words: 1’010’654 <br/>
 Number of unique stemmed words: 127’767
 
 ## Results
